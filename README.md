@@ -1,6 +1,6 @@
 # ZKSwap security audit certificate / ZKSwap 安全审计报告
 
-Lastest updated: 2021-2-5 
+Lastest updated: 2021-2-7 
 
 More reports coming soon. 审计报告持续更新中
 
@@ -22,7 +22,9 @@ More reports coming soon. 审计报告持续更新中
 
 ## Certik
 
-Security audit report coming soon...
+[Certik Security audit certificate(Smart Contract Part)](./Certik-L2Labs-SmartContracts-03_02_2021.pdf)
+
+[Certik Security audit certificate(Circuit Part)](./Certik-L2Labs-ZKSwap-Circuit-06_02_2021.pdf)
 
 ## ABDK
 
