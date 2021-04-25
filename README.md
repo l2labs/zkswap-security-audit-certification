@@ -29,7 +29,5 @@ More reports coming soon. 审计报告持续更新中
 ## ABDK
 
 [ABDK Security audit report(Smart Contract part)](./ABDK__ZkSwap_Solidity_report.pdf)
+
 [ABDK Security audit report(Circuit part)](./ABDK__ZkSwap_Circuit_report.pdf)
-
-Circuit part coming soon...
-
