@@ -8,7 +8,7 @@ More reports coming soon. 审计报告持续更新中
 
 ### English version
 
-[Security audit report](./SlowMist-ZKSwap-Security-Audit-Report.pdf)
+[Security audit report](V1/SlowMist-ZKSwap-Security-Audit-Report.pdf)
 
 [Security audit certificate(Circuit Part) -- NO. BCA002012140001](https://www.slowmist.com/en/security-audit-certificate.html?id=760b6758420b5ca81da27465411641fb5df7e77462aa31b4932fe4d75b88c270)
 
@@ -22,12 +22,24 @@ More reports coming soon. 审计报告持续更新中
 
 ## Certik
 
-[Certik Security audit certificate(Smart Contract Part)](./Certik-L2Labs-SmartContracts-03_02_2021.pdf)
+[Certik Security audit certificate(Smart Contract Part)](V1/Certik-L2Labs-SmartContracts-03_02_2021.pdf)
 
-[Certik Security audit certificate(Circuit Part)](./Certik-L2Labs-ZKSwap-Circuit-06_02_2021.pdf)
+[Certik Security audit certificate(Circuit Part)](V1/Certik-L2Labs-ZKSwap-Circuit-06_02_2021.pdf)
 
 ## ABDK
 
-[ABDK Security audit report(Smart Contract part)](./ABDK__ZkSwap_Solidity_report.pdf)
+[ABDK Security audit report(Smart Contract part)](V1/ABDK__ZkSwap_Solidity_report.pdf)
 
-[ABDK Security audit report(Circuit part)](./ABDK__ZkSwap_Circuit_report.pdf)
+[ABDK Security audit report(Circuit part)](V1/ABDK__ZkSwap_Circuit_report.pdf)
+
+
+# ZKSwap V2 security audit certificate / ZKSwap 安全审计报告
+
+## ABDK
+
+[ABDK Security audit report](V2/ABDK_ZKSwap_RustAndSolidity_v_2.pdf)
+
+## Certik
+
+[Certik Security audit certificate](https://www.certik.org/projects/zkswap)
+
